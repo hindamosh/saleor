@@ -369,4 +369,4 @@ msgstr "عدد"
 #: saleor/static/js/components/variantPicker/VariantPicker.js:167
 msgctxt "Product details primary action"
 msgid "Add to cart"
-msgstr "إضافة إلى البطاقة"
+msgstr "إضافة إلى السلة"
